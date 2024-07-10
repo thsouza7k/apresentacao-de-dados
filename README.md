@@ -1,9 +1,8 @@
 [PT-BR / ENG]
-## Criando uma apresentação executiva / Creating an executive presentation
+## Praticamento a plotagem de gráficos com matplotlib para uma possível apresentação executiva ou para clientes. / Creating an executive presentation.
 #### Utilizando a base de dados de vendas do kaggle: / Using the kaggle sales database: www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 ### Contexto dos dados / Context 
-Retail dataset of a global superstore for 4 years.
-Conjunto de dados de varejo de uma superloja global por 4 anos.
+Conjunto de dados de varejo de uma superloja global por 4 anos. / Retail dataset of a global superstore for 4 years.
 
 ### Objetivo / Objective :
 ##### Responder as seguintes questões / Answer the following questions:
